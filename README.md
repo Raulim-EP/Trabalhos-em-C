@@ -1,7 +1,8 @@
 # Códigos em C feitos no curso de engenharia de computação
 
-**## Exercicio1.c**
+## **Exercicio1.c**
 **Solução em C feita para o problema descrito**
+
 **Problema:** Você foi encarregado de criar um sistema para registrar as vendas de produtos em 
 um dia; o sistema deve ser capaz de registrar quantas vendas forem necessárias, com o 
 usuário indicando quando não deseja mais registrar. Para cada venda, informe o nome do 
