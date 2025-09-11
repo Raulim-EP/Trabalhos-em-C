@@ -9,7 +9,7 @@ produto, a quantidade de itens vendidos  e o valor unitário de cada item. Ao fi
 deve apresentar o número total de itens vendidos, o maior valor de venda registrado em uma 
 única transação e o valor total geral das vendas do dia. 
 
-**solução**: [Solução](Trabalhos-em-C/exercicio1.c)
+**solução**: [Solução](exercicio1.c)
 
 ## **Problema 2**
 
@@ -20,7 +20,7 @@ atleta, o sistema deve informar o tempo total da prova e a média da frequência
 final da competição, apresente a velocidade média geral de todos os atletas e qual a maior 
 frequência cardíaca registrada durante toda a prova. 
 
-**solução**: [Solução](Trabalhos-em-C/exercicio2.c)
+**solução**: [Solução](exercicio2.c)
 
 ## **Problema 3**
 
@@ -30,7 +30,7 @@ deverá realizar a coleta de dados de temperatura a cada 2 horas. O sistema deve
 de apresentar a média de temperatura de cada dia e, ao final do mês, apresentar qual dia teve 
 a maior e a menor temperatura registrada.
 
-**solução**: [Solução](Trabalhos-em-C/exercicio3.c)
+**solução**: [Solução](exercicio3.c)
 
 ## **Problema 4**
 
@@ -41,4 +41,4 @@ perde 2 pontos; para qualquer outra soma, a pontuação é igual à própria som
 simulações, o sistema deve exibir o número total de pontos acumulados pelo jogador e a 
 maior pontuação obtida em um único lançamento (considerando a pontuação bônus). 
 
-**solução**: [Solução](Trabalhos-em-C/exercicio4.c)
+**solução**: [Solução](exercicio4.c)
