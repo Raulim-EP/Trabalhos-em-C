@@ -8,6 +8,7 @@ usuário indicando quando não deseja mais registrar. Para cada venda, informe o
 produto, a quantidade de itens vendidos  e o valor unitário de cada item. Ao final, o sistema 
 deve apresentar o número total de itens vendidos, o maior valor de venda registrado em uma 
 única transação e o valor total geral das vendas do dia. 
+
 **solução**: [Solução](TRABALHOS-EM-C/exercicio1.c)
 
 ## **Problema 2**
@@ -28,6 +29,7 @@ mês específico, informado pelo usuário (mês numérico de 1 a 12). De posse d
 deverá realizar a coleta de dados de temperatura a cada 2 horas. O sistema deverá ser capaz 
 de apresentar a média de temperatura de cada dia e, ao final do mês, apresentar qual dia teve 
 a maior e a menor temperatura registrada.
+
 **solução**: [Solução](TRABALHOS-EM-C/exercicio3.c)
 
 ## **Problema 4**
